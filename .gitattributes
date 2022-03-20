@@ -1,0 +1,4 @@
+svg/Glyde.ai            filter=lfs  diff=lfs    merge=lfs   -text
+svg/Gophigure.ai        filter=lfs  diff=lfs    merge=lfs   -text
+svg/GophigureBanner.ai  filter=lfs  diff=lfs    merge=lfs   -text
+png                     filter=lfs  diff=lfs    merge=lfs   -text
