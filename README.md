@@ -2,9 +2,9 @@
 
 ---
 
-<p align="center">
+<h4 align="center"><i>
 This repository holds branding assets for <a href="https://github.com/Gophigure">Gophigure</a> and its projects.
-</p>
+</i></h3>
 
 ---
 
