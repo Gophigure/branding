@@ -1,5 +1,6 @@
+svg/BotBanner.ai        filter=lfs  diff=lfs    merge=lfs   -text
 svg/Glyde.ai            filter=lfs  diff=lfs    merge=lfs   -text
 svg/GlydeBanner.ai      filter=lfs  diff=lfs    merge=lfs   -text
 svg/Gophigure.ai        filter=lfs  diff=lfs    merge=lfs   -text
 svg/GophigureBanner.ai  filter=lfs  diff=lfs    merge=lfs   -text
-png                     filter=lfs  diff=lfs    merge=lfs   -text
+png/*                   filter=lfs  diff=lfs    merge=lfs   -text
